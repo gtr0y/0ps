@@ -1,0 +1,6 @@
+localhost
+google.com
+127.0.0.1
+cm690
+bongo
+mongo
